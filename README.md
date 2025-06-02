@@ -5,3 +5,8 @@ This project is a deep learning model that classifies images as either cats or d
 - Preprocessed image data using `ImageDataGenerator`
 - Achieved over 85% validation accuracy
 - Visualized training history (accuracy and loss curves)
+Tools Used:
+- Python
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
